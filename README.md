@@ -1,7 +1,7 @@
 # Doing weekly challange from IAmTimCorey
 
 ## Resource
-I'm doing a challange from IAmTimCorey youtube channels. Here the link : [His youtube Channel](https://www.youtube.com/watch?v=Wj-aTJOVqNs)
+I'm doing a challange from IAmTimCorey youtube channels. Here the link : [His youtube video](https://www.youtube.com/watch?v=Wj-aTJOVqNs)
 
 ## Primary challange:
 
