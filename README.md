@@ -1,4 +1,7 @@
-# Doing weekly challange from IAmTimCorey :  youtube.com/watch?v=Wj-aTJOVqNs&t
+# Doing weekly challange from IAmTimCorey
+
+## Resource
+I'm doing a challange from IAmTimCorey youtube channels. Here the link : [His youtube Channel](https://www.youtube.com/watch?v=Wj-aTJOVqNs)
 
 ## Primary challange:
 
@@ -7,9 +10,11 @@ Also replace any instance of Acme with TimCo in the names.
 
 Result :
 * From console
+
 ![alt text](https://github.com/VendyP/bulk-file-renaming-csharp/blob/master/Assets/Images/proof-primary-challange.PNG "Proof 1")
 
 * Exact folder
+
 ![alt text](https://github.com/VendyP/bulk-file-renaming-csharp/blob/master/Assets/Images/proof-primary-challange-2.PNG "Proof 2")
 
 ## Bonus challange:
@@ -19,7 +24,9 @@ Make sure to retain the extension type.
 
 Result : 
 * From console
+
 ![alt text](https://github.com/VendyP/bulk-file-renaming-csharp/blob/master/Assets/Images/proof-bonus-challange.PNG "Proof 1")
 
 * Exact folder
+
 ![alt text](https://github.com/VendyP/bulk-file-renaming-csharp/blob/master/Assets/Images/proof-bonus-challange-2.PNG "Proof 2")
